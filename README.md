@@ -1,2 +1,4 @@
 # auto-build-apk
-Auto and custom to compile apps under windows or ubuntu
+
+* Windows下如何自定义配置和自动编译app，请看windows目录下的文档
+* Ubuntu下如何自定义配置和自动编译app，请看ubuntu目录下的文档
